@@ -1,3 +1,5 @@
 print(2)
 print(6)
 print("hello")
+print("the god of war")
+print("the last of us")
